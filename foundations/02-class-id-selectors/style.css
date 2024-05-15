@@ -2,15 +2,14 @@
     background-color: #FFC0CB;
     font-family: Verdana, sans-serif;
 }
-.odd#third{
+.same-size{
     font-size: 24px;
 }
-.even.second{
+#second{
     color: #0000FF;
     font-size: 36px;
 }
-.even.fourth{
+#fourth{
     background-color: #09EE90;
-    font-size: 24px;
     font-weight: bold;
 }
