@@ -6,10 +6,12 @@
 }
 
 .box {
+  display: flex;
   background: palevioletred;
   font-weight: bold;
   text-align: center;
   border: 6px solid maroon;
   width: 80px;
   height: 80px;
+  align-items: center;
 }
