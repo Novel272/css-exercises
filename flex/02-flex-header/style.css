@@ -19,6 +19,8 @@ ul {
   /* this removes the dots on the list items*/
   display: flex;
   list-style-type: none;
+  margin: 0;
+  padding: 0;
   gap: 8;
 
 }
@@ -32,7 +34,7 @@ a {
 }
 .header{
   display: flex;
-  margin: 0;
+  padding: 8;
   align-items: center;
   justify-content: space-between;
 }
