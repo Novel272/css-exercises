@@ -28,12 +28,12 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
-left-links{
+.left-links{
   display: flex;
   align-items: center;
   justify-content: left;
 }
-right-links{
+.right-links{
   display: flex;
   align-items: center;
   justify-content: right;
