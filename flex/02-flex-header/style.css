@@ -19,6 +19,7 @@ ul {
   /* this removes the dots on the list items*/
   display: flex;
   list-style-type: none;
+  gap: 8;
 
 }
 
@@ -29,15 +30,9 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
-.left-links{
+.header{
   display: flex;
+  margin: 0;
   align-items: center;
-  justify-content: left;
-  flex: 1 1 auto;
-}
-.right-links{
-  display: flex;
-  align-items: center;
-  justify-content: right;
-  flex: 1 1 auto;
+  justify-content: space-between;
 }
