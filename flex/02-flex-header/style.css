@@ -19,7 +19,7 @@ ul {
   display: flex;
   list-style-type: none;
   align-items: center;
-  
+
 }
 
 a {
@@ -28,4 +28,14 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
+}
+left-links{
+  display: flex;
+  align-items: left;
+  justify-content: center;
+}
+right-links{
+  display: flex;
+  align-items: right;
+  justify-content: center;
 }
