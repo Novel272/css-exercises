@@ -12,6 +12,7 @@
   padding: 4px 32px;
   align-items: center;
   justify-content: center;
+  flex: 1 1 auto;
 }
 
 ul {
@@ -32,9 +33,11 @@ a {
   display: flex;
   align-items: center;
   justify-content: left;
+  flex: 1 1 auto;
 }
 .right-links{
   display: flex;
   align-items: center;
   justify-content: right;
+  flex: 1 1 auto;
 }
