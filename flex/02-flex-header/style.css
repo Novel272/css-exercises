@@ -31,11 +31,11 @@ a {
 }
 left-links{
   display: flex;
-  align-items: left;
-  justify-content: center;
+  align-items: center;
+  justify-content: left;
 }
 right-links{
   display: flex;
-  align-items: right;
-  justify-content: center;
+  align-items: center;
+  justify-content: right;
 }
