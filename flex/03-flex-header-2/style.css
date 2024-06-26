@@ -46,12 +46,12 @@ a {
 ul {
   list-style-type: none;
 }
-:left{
+.left{
   display: flex;
   align-self: left;
   flex: auto;
 }
-:right{
+.right{
   display: flex;
   align-self: right;
   flex: auto;
