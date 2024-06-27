@@ -49,14 +49,14 @@ a {
 ul {
   list-style-type: none;
 }
-.notifications.logo{
+.notifications ,.logo{
   display: flex;
   align-content: flex-start;
   align-items: right;
   justify-content: flex-end;
   gap: 8;
 }
-.links.logo{
+.links ,.logo{
   display: flex;
   align-content: flex-start;
   align-items: right;
