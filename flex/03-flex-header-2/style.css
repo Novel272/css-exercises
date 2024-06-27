@@ -48,8 +48,14 @@ a {
 
 ul {
   list-style-type: none;
+}
+.notifications.logo{
   display: flex;
-  align-items: left;
-  justify-content:baseline;
-  flex: auto;
+  align-items: right;
+  gap: 8;
+}
+.links.logo{
+  display: flex;
+  align-items: right;
+  gap: 8;
 }
