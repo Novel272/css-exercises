@@ -51,11 +51,15 @@ ul {
 }
 .notifications.logo{
   display: flex;
+  align-content: flex-start;
   align-items: right;
+  justify-content: flex-end;
   gap: 8;
 }
 .links.logo{
   display: flex;
+  align-content: flex-start;
   align-items: right;
+  justify-content: flex-start;
   gap: 8;
 }
