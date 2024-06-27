@@ -49,6 +49,7 @@ a {
 ul {
   list-style-type: none;
   display: flex;
-  justify-content: left;
+  align-items: left;
+  justify-content:baseline;
   flex: auto;
 }
