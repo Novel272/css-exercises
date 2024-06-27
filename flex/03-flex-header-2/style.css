@@ -49,10 +49,12 @@ ul {
 .left{
   display: flex;
   align-self: left;
+  justify-content: space-between;
   flex: auto;
 }
 .right{
   display: flex;
   align-self: right;
+  justify-content: space-between;
   flex: auto;
 }
