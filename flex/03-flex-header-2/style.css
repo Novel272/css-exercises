@@ -49,17 +49,19 @@ a {
 ul {
   list-style-type: none;
 }
-.notifications ,.logo{
+.header{
   display: flex;
-  align-content: flex-start;
-  align-items: right;
-  justify-content: flex-end;
-  gap: 8;
+  justify-content: space-between;
+  padding: 8px;
 }
-.links ,.logo{
+ul{
   display: flex;
-  align-content: flex-start;
-  align-items: right;
-  justify-content: flex-start;
-  gap: 8;
+  margin: 0;
+  padding: 0;
+  gap: 8px;
+}
+.left, .right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
 }
