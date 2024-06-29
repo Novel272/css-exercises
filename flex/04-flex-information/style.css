@@ -35,7 +35,6 @@ img {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  align-content: center;
   padding: 32px;
   gap: 52px;
 }
@@ -44,6 +43,5 @@ img {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  align-content: center;
   gap: 52px;
 }
