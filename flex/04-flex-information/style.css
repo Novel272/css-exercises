@@ -32,14 +32,14 @@ img {
 }
 .image{
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-content: space-between;
   padding: 32px;
   gap: 52px;
 }
 .text{
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-content: space-between;
   gap: 52px;
 }
