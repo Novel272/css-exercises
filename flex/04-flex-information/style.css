@@ -34,8 +34,7 @@ img {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  justify-content: space-evenly;
-  align-content: space-between;
+  align-content: center;
   padding: 32px;
   gap: 52px;
 }
@@ -43,7 +42,6 @@ img {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  justify-content: space-between;
-  align-content: space-between;
+  align-content: center;
   gap: 52px;
 }
