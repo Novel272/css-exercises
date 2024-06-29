@@ -24,17 +24,17 @@ img {
   justify-content: center;
   background: #eee;
 }
-.body{
+.container{
   display: flex;
   justify-content: center;
+  gap: 52px;
+}
+.body{
   align-items: center;
 }
 .title{
-  display: flex;
-  justify-content: center;
-  align-self: flex-start;
   padding-bottom: 32px;
 }
 .image{
-  gap: 52px;
+  max-width: 200px;
 }
