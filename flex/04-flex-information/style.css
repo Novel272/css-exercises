@@ -34,13 +34,13 @@ img {
 .image{
   display: flex;
   justify-content: center;
-  align-self: baseline;
+  align-self: center;
   gap: 52px;
 }
 .text{
   display: flex;
   justify-content: center;
-  align-self: baseline;
+  align-self: center;
   gap: 52px;
   flex: auto;
 }
