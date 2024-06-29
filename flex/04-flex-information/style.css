@@ -37,9 +37,3 @@ img {
   padding: 32px;
   gap: 52px;
 }
-.text{
-  display: flex;
-  justify-content: space-between;
-  align-content: space-between;
-  gap: 52px;
-}
