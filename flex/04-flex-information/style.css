@@ -34,11 +34,15 @@ img {
   display: flex;
   justify-content: center;
   align-content: center;
+  padding: 32px;
   gap: 52px;
+  margin: 0px;
 }
 .text{
   display: flex;
   justify-content: center;
   align-content: center;
   gap: 52px;
+  padding: 32px;
+  margin: 0px;
 }
