@@ -33,7 +33,8 @@ img {
 .image{
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
+  justify-content: space-evenly;
   align-content: space-between;
   padding: 32px;
   gap: 52px;
@@ -41,6 +42,7 @@ img {
 .text{
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   justify-content: space-between;
   align-content: space-between;
   gap: 52px;
