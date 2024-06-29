@@ -29,6 +29,7 @@ img {
   justify-content: center;
   align-self: flex-start;
   padding: 32px;
+  flex: auto;
 }
 .image{
   display: flex;
@@ -41,4 +42,5 @@ img {
   justify-content: center;
   align-self: baseline;
   gap: 52px;
+  flex: auto;
 }
