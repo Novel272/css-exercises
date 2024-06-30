@@ -30,12 +30,10 @@ img {
   gap: 52px;
 }
 .body{
-  align-items: center;
+  text-align: center;
 }
 .title{
-  justify-content: center;
-  align-items: center;
-  padding-bottom: 32px;
+  margin-bottom: 32px;
 }
 .image{
   max-width: 200px;
