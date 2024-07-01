@@ -90,4 +90,5 @@ button.cancel {
   justify-content: flex-start;
   padding: 10px;
   gap: 20px;
+  flex-shrink: 1;
 }
