@@ -83,5 +83,6 @@ button.cancel {
 .text{
   display: flex;
   justify-content: center;
+  gap: 10px;
   margin: auto;
 }
