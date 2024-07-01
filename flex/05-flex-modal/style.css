@@ -79,7 +79,7 @@ button.cancel {
 .top{
   display: flex;
   justify-content: space-between;
-  flex: auto;
+  flex:1 1 auto;
 }
 .text{
   display: flex;
