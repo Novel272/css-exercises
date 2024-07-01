@@ -80,9 +80,9 @@ button.cancel {
   justify-content: space-between;
   flex: auto;
 }
-text{
+.text{
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
-  gap: 10px;
-  margin: auto;
+  gap: 40px;
 }
