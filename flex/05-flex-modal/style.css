@@ -63,7 +63,8 @@ button {
 button.continue {
   display: flex;
   justify-content: flex-start;
-  flex: auto;
+  padding: 10px;
+  gap: 20px;
   background: royalblue;
   border: 1px solid royalblue;
   color: white;
@@ -72,7 +73,8 @@ button.continue {
 button.cancel {
   display: flex;
   justify-content: flex-end;
-  flex: auto;
+  padding: 10px;
+  gap: 20px;
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
