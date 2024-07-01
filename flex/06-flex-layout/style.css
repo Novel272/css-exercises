@@ -29,12 +29,12 @@ input {
   display: flex;
   gap: 10px;
 }
-.header ,.left-links{
+.header .left-links{
   list-style-type: none;
   display: flex;
   justify-content: flex-start;
 }
-.header ,.right-links{
+.header .right-links{
   list-style-type: none;
   display: flex;
   justify-content: flex-end;
@@ -45,6 +45,7 @@ input {
 }
 .content{
   display: flex;
+  flex-direction: column
   justify-content: center;
   align-items: center;
   column-gap: 10px;
@@ -52,12 +53,12 @@ input {
 .footer{
   display: flex;
 }
-.footer ,.left-links{
+.footer .left-links{
   list-style-type: none;
   display: flex;
   justify-content: flex-start;
 }
-.footer ,.right-links{
+.footer .right-links{
   list-style-type: none;
   display: flex;
   justify-content: flex-end;
