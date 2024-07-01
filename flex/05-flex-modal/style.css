@@ -61,20 +61,12 @@ button {
 }
 
 button.continue {
-  display: flex;
-  justify-content: flex-start;
-  padding: 10px;
-  gap: 20px;
   background: royalblue;
   border: 1px solid royalblue;
   color: white;
 }
 
 button.cancel {
-  display: flex;
-  justify-content: flex-end;
-  padding: 10px;
-  gap: 20px;
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
@@ -92,4 +84,17 @@ button.cancel {
   justify-content: center;
   padding: 10px;
   gap: 20px;
+}
+.end{
+  display: flex;
+  padding: 10px;
+  gap: 20px;
+}
+.end ,.cancel{
+  display: flex;
+  justify-content: flex-start;
+}
+.end , .continue{
+  display: flex;
+  justify-content: flex-end;
 }
