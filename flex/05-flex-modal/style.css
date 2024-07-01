@@ -13,7 +13,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex: auto;
+  flex-basis: auto;
+  margin: 20px;
 }
 
 .modal {
@@ -78,4 +79,9 @@ button.cancel {
   display: flex;
   justify-content: space-between;
   flex: auto;
+}
+.text{
+  display: flex;
+  justify-content: center;
+  margin: auto;
 }
