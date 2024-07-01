@@ -78,7 +78,7 @@ button.cancel {
 .icon{
   flex-shrink: 0;
 }
-.header{
+.top{
   display: flex;
   justify-content: space-between;
   align-items: center;
