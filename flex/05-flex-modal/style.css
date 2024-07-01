@@ -71,7 +71,6 @@ button.cancel {
 }
 .modal{
   display: flex;
-  justify-content: center;
   padding: 10px;
 
 }
