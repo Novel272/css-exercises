@@ -87,7 +87,7 @@ button.cancel {
 }
 .end{
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   padding: 10px;
   gap: 20px;
   flex: 1 1 auto;
