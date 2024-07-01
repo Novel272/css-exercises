@@ -13,8 +13,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-basis: auto;
-  margin: 20px;
+  flex:1 1 auto;
 }
 
 .modal {
@@ -53,6 +52,8 @@ body {
 }
 
 button {
+  display: flex;
+  flex:1 1 auto;
   cursor: pointer;
   padding: 8px 16px;
   border-radius: 8px;
