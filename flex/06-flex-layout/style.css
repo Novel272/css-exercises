@@ -58,11 +58,11 @@ input {
   list-style-type: none;
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-start;
+  justify-content: space-between;
 }
 .footer .right-links{
   list-style-type: none;
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-end;
+  justify-content: space-between;
 }
