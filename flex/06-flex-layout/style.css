@@ -54,6 +54,7 @@ input {
 .footer{
   background-color: #eee;
   display: flex;
+  flex-direction: column;
   align-items: flex-end;
   gap: 10px;
   flex-wrap: wrap;
