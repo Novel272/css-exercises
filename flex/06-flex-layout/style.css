@@ -59,10 +59,12 @@ input {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  gap: 10px;
 }
 .footer .right-links{
   list-style-type: none;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  gap: 10px;
 }
