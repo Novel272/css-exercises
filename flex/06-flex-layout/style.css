@@ -29,7 +29,7 @@ input {
 .header{
   display: flex;
   flex-wrap: wrap;
-  gap: 80px;
+  gap: 200px;
 }
 .header .left-links{
   list-style-type: none;
