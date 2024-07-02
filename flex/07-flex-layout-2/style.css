@@ -49,6 +49,12 @@ body{
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  flex: 1 0 auto;
+  flex: 1 0 0;
   justify-content: center;
+}
+.sidebar{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex: 1 1 auto;
 }
