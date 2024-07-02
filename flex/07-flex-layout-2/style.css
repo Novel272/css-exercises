@@ -47,10 +47,9 @@ body{
 }
 .list{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   flex-wrap: wrap;
   flex: 1 0 0;
-  justify-content: center;
 }
 .sidebar{
   display: flex;
