@@ -39,10 +39,6 @@ input {
   display: flex;
   justify-content: flex-end;
 }
-.break{
-  flex-basis: 100%;
-  height: 0;
-}
 .content{
   display: flex;
   flex-direction: column;
