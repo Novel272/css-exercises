@@ -32,13 +32,20 @@ body{
   flex-direction: column;
 }
 .header{
+  font-size: 32px;
+  font-weight: 900;
   display: flex;
   justify-content: flex-start;
   align-items: center;
   margin: 16px;
+  gap: 16px;
 }
 .footer{
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.list{
+  display: flex;
+  justify-content: center;
 }
