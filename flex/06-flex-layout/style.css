@@ -54,6 +54,8 @@ input {
   gap: 16px;
 }
 .footer{
+  flex: 1;
+  background-color: #eee;
   display: flex;
   justify-content: space-between;
   gap: 16px;
