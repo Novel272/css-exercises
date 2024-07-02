@@ -47,7 +47,8 @@ body{
 }
 .list{
   display: flex;
-  flex-direction: row;
-  flex-grow: 300px;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex: 1 1 auto;
   justify-content: center;
 }
