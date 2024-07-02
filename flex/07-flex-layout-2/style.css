@@ -48,22 +48,17 @@ body{
 .list{
   display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: normal;
-  flex: 1 0 0;
+  height: 300vh;
 }
 .sidebar{
   display: flex;
-  width: 300px;
   justify-content: flex-start;
   align-items: flex-start;
-  flex: 1 0 auto;
+  flex-grow: 1;
 }
 .left{
   display: flex;
-  width: 300px;
   flex-wrap: wrap;
   justify-content: space-between;
-  flex: 1 1 auto;
+  flex-grow: 1;
 }
