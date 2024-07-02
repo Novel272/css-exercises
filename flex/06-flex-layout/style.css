@@ -47,6 +47,8 @@ input {
 }
 .footer{
   display: flex;
+  align-items: flex-end;
+  gap: 10px;
 }
 .footer .left-links{
   list-style-type: none;
