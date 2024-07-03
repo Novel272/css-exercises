@@ -53,11 +53,11 @@ body{
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
-  flex-grow: 1 0 300px;
+  flex-grow: 1 ;
 }
 .left{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  flex-grow: 1 0 300px;
+  flex-grow: 1 ;
 }
