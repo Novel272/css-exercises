@@ -52,15 +52,14 @@ body{
 }
 .sidebar{
   display: flex;
-  justify-content: flex-start;
-  align-items: flex-start;
-  flex: 0 0 3 ;
+  flex: 1 0 3 ;
   overflow: auto;
 }
 .left{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  padding: 24px;
   flex: auto;
   overflow: auto;
 }
