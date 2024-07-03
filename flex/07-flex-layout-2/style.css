@@ -54,15 +54,15 @@ body{
   display: flex;
   padding: 16px;
   flex-shrink: 0;
-  overflow: auto;
 }
 .left{
   display: flex;
   flex-wrap: wrap;
   padding: 24px;
   gap: 32px;
-  overflow: auto;
 }
 .ul{
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
