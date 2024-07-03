@@ -52,7 +52,7 @@ body{
 }
 .sidebar{
   display: flex;
-  flex: 1 0 3 ;
+  flex: 0 0 3 ;
   overflow: auto;
 }
 .left{
@@ -60,6 +60,6 @@ body{
   flex-wrap: wrap;
   justify-content: space-between;
   padding: 24px;
-  flex: auto;
+  flex: 0 0 3;
   overflow: auto;
 }
