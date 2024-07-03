@@ -52,15 +52,17 @@ body{
 }
 .sidebar{
   display: flex;
-  padding: 24px;
-  flex: 1 1 3 ;
+  padding: 16px;
+  flex-shrink: 0;
   overflow: auto;
 }
 .left{
   display: flex;
   flex-wrap: wrap;
   padding: 24px;
-  justify-content: space-between;
-  flex: 1 1 3;
+  gap: 32px;
   overflow: auto;
+}
+.ul{
+  list-style-type: none;
 }
