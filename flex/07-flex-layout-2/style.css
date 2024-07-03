@@ -52,13 +52,12 @@ body{
 }
 .sidebar{
   display: flex;
+  padding: 24px;
   flex: 0 0 3 ;
   overflow: auto;
 }
 .left{
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
   padding: 24px;
   flex: 0 0 3;
   overflow: auto;
